@@ -1,5 +1,6 @@
 # 💫 About Me:
-<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p><br>🌱 Hemanth Kumar A. R.<br>🔭 Python Developer | Machine Learning Enthusiast | Hardware Tinkerer.<br>💻 Fun coder.<br>⚡ From an Electronics Engineering background.<br>🤖 Learning and understanding AI/ML.
+![programming gif](https://github.com/user-attachments/assets/b427402d-a605-41f7-98f7-2e426fafc367)
+🌱 Hemanth Kumar A. R.<br>🔭 Python Developer | Machine Learning Enthusiast | Hardware Tinkerer.<br>💻 Fun coder.<br>⚡ From an Electronics Engineering background.<br>🤖 Learning and understanding AI/ML.
 
 
 ## 🌐 Socials:
