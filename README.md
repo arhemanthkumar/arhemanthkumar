@@ -1,5 +1,5 @@
 # 💫 About Me:
-![programming gif](https://github.com/user-attachments/assets/b427402d-a605-41f7-98f7-2e426fafc367)
+![programming gif](https://github.com/user-attachments/assets/b427402d-a605-41f7-98f7-2e426fafc367)<br>
 🌱 Hemanth Kumar A. R.<br>🔭 Python Developer | Machine Learning Enthusiast | Hardware Tinkerer.<br>💻 Fun coder.<br>⚡ From an Electronics Engineering background.<br>🤖 Learning and understanding AI/ML.
 
 
